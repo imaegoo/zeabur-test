@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "build": "cd .",
+    "start": "node index.js"
+  }
+}
